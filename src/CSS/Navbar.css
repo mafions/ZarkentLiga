@@ -1,0 +1,34 @@
+.LOGO {
+  width: 50px;
+  margin: 0 350px 0 0;
+}
+.Navbarjon {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.navbar_layer {
+  position: absolute;
+  height: 100%;
+  width: 300%;
+  left: -100%;
+  background-image: linear-gradient(135deg, #9708cc, #43cbff, #9708cc, #43cbff);
+  transition: all 0.4s ease;
+}
+.Navbarjon:hover .navbar_layer {
+  left: 0;
+}
+.Navbarjon nav {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: none;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #fff;
+  align-items: center;
+  justify-content: space-around;
+}
