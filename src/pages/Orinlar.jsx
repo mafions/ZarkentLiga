@@ -8,7 +8,7 @@ const Jamoalar = () => {
             id: 5,
             name: "2000(1)",
             Orin: 1,
-            img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_München_%282002–2017%29.svg/1200px-Logo_FC_Bayern_München_%282002–2017%29.svg.png",
+            img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
             oyin: "1",
             achko: "3",
             gollar: "6"
