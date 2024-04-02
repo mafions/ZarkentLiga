@@ -315,9 +315,9 @@ export const data = {
           city: "Zarkent",
         },
         status: {
-          long: "Waiting...",
+          long: "Full Time",
           short: "1H",
-          elapsed: 0,
+          elapsed: 40,
         },
       },
       league: {
@@ -344,17 +344,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 7,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 1,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 7,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -368,7 +368,7 @@ export const data = {
       events: [
         {
           time: {
-            elapsed: 0,
+            elapsed: 40,
             extra: null,
           },
           team: {
@@ -378,11 +378,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2006 ( 2 ) Goals:  ",
+            name: " TEAM 2006 ( 2 ) Goals: Azamat 2`,15,37 , Nurmuhammad 19` , Jasurbek 32, 40 , Ozodbek 34` ",
           },
           player2: {
             id: null,
-            name: " TEAM 2000 Goals:  ",
+            name: " TEAM 2000 Goals: Sharoffidin 10` , Abdullaziz 35` ",
           },
           assist: {
             id: null,
@@ -411,9 +411,9 @@ export const data = {
           city: "ZARKENT",
         },
         status: {
-          long: "Waiting...",
+          long: "Full Time",
           short: "1H",
-          elapsed: 0,
+          elapsed: 40,
         },
       },
       league: {
@@ -440,17 +440,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 5,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 2,
+          away: 2,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 5,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -458,13 +458,13 @@ export const data = {
         },
         penalty: {
           home: null,
-          away: null,
+          away: "1ta",
         },
       },
       events: [
         {
           time: {
-            elapsed: 0,
+            elapsed: 40,
             extra: null,
           },
           team: {
@@ -474,11 +474,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2005 Goals: ",
+            name: " TEAM 2005 Goals: Rasul 4`,19`,22,30,32 ",
           },
           player2: {
             id: null,
-            name: " TEAM 2008 Goals:  ",
+            name: " TEAM 2007 Goals: Javoxir 7`,16`   ",
           },
           assist: {
             id: null,
@@ -507,9 +507,9 @@ export const data = {
           city: "ZARKENT",
         },
         status: {
-          long: "Waiting...",
+          long: "Full Time",
           short: "1H",
-          elapsed: 0,
+          elapsed: 40,
         },
       },
       league: {
@@ -532,21 +532,21 @@ export const data = {
           id: 8635,
           name: "2008",
           logo: "https://i.pinimg.com/originals/a8/1a/72/a81a7215b02f6a9a6b5b1b28d2f2882f.png",
-          winner: true,
+          winner: false,
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 5,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 2,
+          away: 2,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 5,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -560,7 +560,7 @@ export const data = {
       events: [
         {
           time: {
-            elapsed: 0,
+            elapsed: 40,
             extra: null,
           },
           team: {
@@ -570,11 +570,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2006 Goals:",
+            name: " TEAM 2006 Goals: Shoxrux 4`,13,24`,35`  ,  Dovudbek 40`",
           },
           player2: {
             id: null,
-            name: " TEAM 2000 Goals: ",
+            name: " TEAM 2000 Goals: Akobir 11`,20 ", 
           },
           assist: {
             id: null,
