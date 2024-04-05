@@ -3,8 +3,8 @@ import PlayerList from '../components/PlayerList';
 
 function Topurarlar() {
   const [players, setPlayers] = useState([
-    { id: 1, name: 'Javoxir', age: 17, position: 'Forward', goals: 16 },
     { id: 11, name: 'Shoxrux', age: 18, position: 'Forward', goals: 13 },
+    { id: 1, name: 'Javoxir', age: 17, position: 'Forward', goals: 12 },
     { id: 3, name: 'Rasulbek', age: 19, position: 'Forward', goals: 11 },
     { id: 7, name: 'Azamat', age: 18, position: 'Forward', goals: 9 },
     { id: 5, name: 'Ismoil', age: 18, position: 'Midfielder', goals: 6 },
