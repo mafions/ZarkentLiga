@@ -586,6 +586,594 @@ export const data = {
         },
       ],
     },
+    {
+      fixture: {
+        id: 88398211,
+        referee: null,
+        timezone: "UTC",
+        date: "2023-03-25T12:00:00+00:00",
+        timestamp: 16797456002,
+        periods: {
+          first: 16797456002,
+          second: null,
+        },
+        venue: {
+          id: null,
+          name: "MARDON AKA MINISI",
+          city: "Zarkent",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 109,
+        name: "3 - TUR",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-2.api-sports.io/flags/pl.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6064,
+          name: "2006 ( 2 )",
+          logo: "https://avatars.mds.yandex.net/i?id=9714adecfb06c39800522a12b51b6dd827446861-12542244-images-thumbs&n=13",
+          winner: null,
+        },
+        away: {
+          id: 6985,
+          name: "2008",
+          logo: "https://i.pinimg.com/originals/a8/1a/72/a81a7215b02f6a9a6b5b1b28d2f2882f.png",
+          winner: null,
+        },
+      },
+      goals: {
+        home: 2,
+        away: 2,
+      },
+      score: {
+        halftime: {
+          home: 2,
+          away: 1,
+        },
+        fulltime: {
+          home: 2,
+          away: 2,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006 ( 2 ) Goals: Azamat 2`, Ozodbek 34` ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2000 Goals: Akobir 10` , Mirihtiyor 39` ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+    {
+      fixture: {
+        id: 90067121,
+        referee: null,
+        timezone: "UTC",
+        date: "2023-03-25T12:00:00+00:00",
+        timestamp: 16797453600,
+        periods: {
+          first: 16797456010,
+          second: null,
+        },
+        venue: {
+          id: 4974,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 659,
+        name: "3 - TUR ",
+        country: "UZBEKISTAN",  
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-2.api-sports.io/flags/ru.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6814,
+          name: "2005",
+          logo: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
+          winner: null,
+        },
+        away: {
+          id: 17002,
+          name: "2000",
+          logo: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
+          winner: null,
+        },
+      },
+      goals: {
+        home: 5,
+        away: 4,
+      },
+      score: {
+        halftime: {
+          home: 2,
+          away: 2,
+        },
+        fulltime: {
+          home: 5,
+          away: 4,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2005 Goals: Rasul 4`,19`,22, , Oqilbek 5` , Asatbek 32` ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2007 Goals: Javoxir 7`,16`   ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+    {
+      fixture: {
+        id: 883772,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 167974600,
+        periods: {
+          first: 167974560,
+          second: null,
+        },
+        venue: {
+          id: 4479,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 862,
+        name: " 3 - TUR",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6013,
+          name: "2006  ( 1 )",
+          logo: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
+          winner: false,
+        },
+        away: {
+          id: 8635,
+          name: "2007",
+          logo: "https://avatars.mds.yandex.net/i?id=b78c3c2149b01d357fe7f836840996a1a523fd5d-4825158-images-thumbs&n=13",
+          winner: false,
+        },
+      },
+      goals: {
+        home: 2,
+        away: 4,
+      },
+      score: {
+        halftime: {
+          home: 2,
+          away: 2,
+        },
+        fulltime: {
+          home: 2,
+          away: 4,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006 Goals: Shoxrux 4`,13,",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2007 Goals: Javoxir 12` , 18` , 22` , 29` ", 
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+    
+
+
+    {
+      fixture: {
+        id: 883772,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1679745600,
+        periods: {
+          first: 1609745600,
+          second: null,
+        },
+        venue: {
+          id: 4470,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 862,
+        name: " 4 - TUR",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6013,
+          name: "2006  ( 1 )",
+          logo: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
+          winner: false,
+        },
+        away: {
+          id: 8635,
+          name: "2006 (2)",
+          logo: "https://avatars.mds.yandex.net/i?id=9714adecfb06c39800522a12b51b6dd827446861-12542244-images-thumbs&n=13",
+          winner: false,
+        },
+      },
+      goals: {
+        home: 9,
+        away: 8,
+      },
+      score: {
+        halftime: {
+          home: 6,
+          away: 2,
+        },
+        fulltime: {
+          home: 9,
+          away: 8,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006 Goals: Shoxrux 4`,14,24`,35`  ,  Dovudbek 7`,18` , Ismoil 12` 19` 28`",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2008 Goals: Azamat 11`,20`,29` , Nurmuhammad 10` 20` 30` , Hasanboy 35` , Dilmurod 38` ,  " ,  
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+    {
+      fixture: {
+        id: 8839821122,
+        referee: null,
+        timezone: "UTC",
+        date: "2023-03-25T12:00:00+00:00",
+        timestamp: 16797456002,
+        periods: {
+          first: 16797456002,
+          second: null,
+        },
+        venue: {
+          id: null,
+          name: "MARDON AKA MINISI",
+          city: "Zarkent",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 101,
+        name: "4 - TUR",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-2.api-sports.io/flags/pl.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6069,
+          name: "2005",
+          logo: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
+          winner: null,
+        },
+        away: {
+          id: 6915,
+          name: "2007",
+          logo: "https://i.pinimg.com/originals/a8/1a/72/a81a7215b02f6a9a6b5b1b28d2f2882f.png",
+          winner: null,
+        },
+      },
+      goals: {
+        home: 1,
+        away: 5,
+      },
+      score: {
+        halftime: {
+          home: 1,
+          away: 3,
+        },
+        fulltime: {
+          home: 1,
+          away: 5,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2005 Goals: Mirzobek 23` ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2007 Goals: Javoxir 12` 15` 22` 35`",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+
+
+    {
+      fixture: {
+        id: 9006712291,
+        referee: null,
+        timezone: "UTC",
+        date: "2023-03-25T12:00:00+00:00",
+        timestamp: 16797453601,
+        periods: {
+          first: 16797456070,
+          second: null,
+        },
+        venue: {
+          id: 4979,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 677,
+        name: "4 - TUR ",
+        country: "UZBEKISTAN",  
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-2.api-sports.io/flags/ru.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6914,
+          name: "2008",
+          logo: "https://i.pinimg.com/originals/a8/1a/72/a81a7215b02f6a9a6b5b1b28d2f2882f.png",
+          winner: null,
+        },
+        away: {
+          id: 17002,
+          name: "2000",
+          logo: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
+          winner: null,
+        },
+      },
+      goals: {
+        home: 2,
+        away: 3,
+      },
+      score: {
+        halftime: {
+          home: 2,
+          away: 2,
+        },
+        fulltime: {
+          home: 2,
+          away: 3,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2008 Goals: Akobir 4`, Mirshohid 17` ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2000 Goals: Dostonbek 7` , Bunyodbek 20` 37`  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+    
     // {
     //   fixture: {
     //     id: 900675,

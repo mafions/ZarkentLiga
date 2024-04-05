@@ -5,58 +5,58 @@ import JamoalDetails from "./JamoalDetails"; // JamoalDetails komponentini impor
 const Jamoalar = () => {
     const [jamoalar, setJamoalar] = useState([
         {
-            id: 4,
-            name: "2005(1)",
-            Orin: 1,
-            img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
-            oyin: "2",
-            achko: "6",
-            gollar: "11"
-        },
-        {
             id: 2,
             name: "2007(1)",
             Orin: 1,
             img: "https://avatars.mds.yandex.net/i?id=b78c3c2149b01d357fe7f836840996a1a523fd5d-4825158-images-thumbs&n=13",
-            oyin: "2",
-            achko: "3",
-            gollar: "10"
+            oyin: "4",
+            achko: "9",
+            gollar: "18"
         },
         {
-            id: 6,
-            name: "2006(2)",
-            Orin: 3,
-            img: "https://avatars.mds.yandex.net/i?id=9714adecfb06c39800522a12b51b6dd827446861-12542244-images-thumbs&n=13",
-            oyin: "2",
-            achko: "3",
-            gollar: "9"
+            id: 4,
+            name: "2005(1)",
+            Orin: 2,
+            img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
+            oyin: "4",
+            achko: "9",
+            gollar: "16"
         },
         {
             id: 3,
             name: "2006(1)",
-            Orin: 4,
+            Orin: 3,
             img: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
-            oyin: "2",
-            achko: "3",
-            gollar: "9"
+            oyin: "4",
+            achko: "6",
+            gollar: "20"
         },
         {
             id: 5,
             name: "2000(1)",
-            Orin: 2,
+            Orin: 4,
             img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
-            oyin: "2",
-            achko: "3",
-            gollar: "8"
+            oyin: "4",
+            achko: "6",
+            gollar: "15"
+        },
+        {
+            id: 6,
+            name: "2006(2)",
+            Orin: 5,
+            img: "https://avatars.mds.yandex.net/i?id=9714adecfb06c39800522a12b51b6dd827446861-12542244-images-thumbs&n=13",
+            oyin: "4",
+            achko: "4",
+            gollar: "19"
         },
         {
             id: 1,
             name: "2008(1)",
-            Orin: 5,
+            Orin: 6,
             img: "https://i.pinimg.com/originals/a8/1a/72/a81a7215b02f6a9a6b5b1b28d2f2882f.png",
-            oyin: "2",
-            achko: "0",
-            gollar: "6"
+            oyin: "4",
+            achko: "1",
+            gollar: "4"
         },
     ]);
     
