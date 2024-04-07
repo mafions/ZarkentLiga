@@ -1086,11 +1086,11 @@ export const data = {
         },
         venue: {
           id: null,
-          name: "MARDON AKA MINISI",
+          name: "SHILVIDAGI MINI",
           city: "Zarkent",
         },
         status: {
-          long: "Waiting...",
+          long: "Full Time",
           short: "1H",
           elapsed: 40,
         },
@@ -1119,17 +1119,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 5,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 2,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 5,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -1153,11 +1153,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2008 Goals: ",
+            name: " TEAM 2008 Goals: Akobir 18`,22`26` Mirshohid 3` 34` ",
           },
           player2: {
             id: null,
-            name: " TEAM 2007 Goals: ",
+            name: " TEAM 2007 Goals: Shaxriyor 5` , Javoxir 12`  ",
           },
           assist: {
             id: null,
@@ -1169,11 +1169,11 @@ export const data = {
         },
       ],
     },
-    
+
 
     {
       fixture: {
-        id: 8839821122,
+        id: 88398212122,
         referee: null,
         timezone: "UTC",
         date: "2023-03-25T12:00:00+00:00",
@@ -1184,11 +1184,11 @@ export const data = {
         },
         venue: {
           id: null,
-          name: "MARDON AKA MINISI",
+          name: "SHILVIDAGI MINI",
           city: "Zarkent",
         },
         status: {
-          long: "Waiting...",
+          long: "Full Time",
           short: "1H",
           elapsed: 40,
         },
@@ -1217,17 +1217,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 3,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 2,
+          away: 2,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -1251,11 +1251,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2008 Goals: ",
+            name: " TEAM 2006 ( 2 ) Goals: Azamat 5` ,  Bek 10` , Ozodbek 22`  ",
           },
           player2: {
             id: null,
-            name: " TEAM 2007 Goals: ",
+            name: " TEAM 2005 Goals: Asatbek 12` , Rasulbek 18`  ",
           },
           assist: {
             id: null,
@@ -1267,6 +1267,112 @@ export const data = {
         },
       ],
     },
+
+
+
+
+
+
+
+
+
+    {
+      fixture: {
+        id: 883921821122,
+        referee: null,
+        timezone: "UTC",
+        date: "2023-03-25T12:00:00+00:00",
+        timestamp: 16797456002,
+        periods: {
+          first: 16797456002,
+          second: null,
+        },
+        venue: {
+          id: null,
+          name: "MARDON AKA MINISI",
+          city: "Zarkent",
+        },
+        status: {
+          long: "Full Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 101,
+        name: "5 - TUR",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-2.api-sports.io/flags/pl.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6069,
+          name: "2006 ( 1 )",
+          logo: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
+          winner: null,
+        },
+        away: {
+          id: 6915,
+          name: "2005",
+          logo: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
+          winner: null,
+        },
+      },
+      goals: {
+        home: 4,
+        away: 4,
+      },
+      score: {
+        halftime: {
+          home: 1,
+          away: 3,
+        },
+        fulltime: {
+          home: 4,
+          away: 4,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 40,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006 ( 1 ) Goals: Shoxrux 10` 35` , Ismoil 22` , 33` ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2005 Goals: Rasulbek 12` 14` , Oqilbek 18` 30`",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
     // {
     //   fixture: {
     //     id: 900675,
