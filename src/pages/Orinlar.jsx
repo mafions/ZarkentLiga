@@ -10,7 +10,7 @@ const Jamoalar = () => {
             Orin: 1,
             img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
             oyin: "5",
-            achko: "9",
+            achko: "10",
             gollar: "22"
         },
         {
