@@ -14,7 +14,10 @@ const NavBar = () => {
       <div className="navbar_layer"></div>
       <nav className="p-5  shadow md:flex md:items-center md:justify-between ">
         <div className="flex justify-between items-center">
-          <span className="text-2xl font-Poppins cursor-pointer">YOSHLAR LIGASI </span>
+          <div className="Nav_image">
+            <img src="https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png" />
+            <span className="text-2xl font-Poppins cursor-pointer">YOSHLAR LIGASI </span>
+          </div>
           <span
             className="text-3xl cursor-pointer mx-1 md:hidden block "
             onClick={toggleMenu}

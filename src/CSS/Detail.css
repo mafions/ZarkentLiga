@@ -1,0 +1,112 @@
+.Oyinchilar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.detail-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.Detail-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.Oyinchi {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.Oyinchi-name {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.Oyinchi-details {
+  margin: 0;
+}
+.club_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.club_container img {
+  width: 200px;
+}
+.club_container_bottom {
+  display: flex;
+  flex-direction: column;
+}
+.Oyinchilar {
+}
+
+.Oyinchi {
+  background-color: #f2f2f2;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  text-align: start;
+}
+
+.Oyinchi:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+.Oyinchi.selected {
+  background-color: #ffc107;
+}
+.Detail_h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100vh;
+  text-align: center;
+  background-color: #ffc107;
+}
+.Grafik_korinish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.Grafik_h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #ffc107;
+  width: 100vh;
+  text-align: center;
+}
+.Oyinchi_head img {
+width: 20px;
+}
+.Oyinchi_head {
+    display: flex;
+}
+.club_container_bottom img {
+    width: 20px;
+}
+.Komanda_sariqlari {
+    display:flex ;
+}
+.Komanda_qizilari {
+    display: flex;
+}

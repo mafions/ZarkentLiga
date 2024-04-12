@@ -32,3 +32,12 @@
   align-items: center;
   justify-content: space-around;
 }
+.Nav_image img {
+  width: 80px;
+  cursor: pointer;
+}
+.Nav_image {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}

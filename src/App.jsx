@@ -6,8 +6,9 @@ import Table from "./components/table";
 import Fixture from "./components/fixture";
 import Navbar from "./components/Navbar";
 import Orinlar from "./pages/Orinlar";
-import JamoalDetails from "./pages/JamoalDetails";
+// import JamoalDetails from "./pages/JamoalDetails";
 import Topurarlar from "./pages/Topurarlar";
+import Detail from "./pages/Detail";
 
 function App() {
   const [fixtures, setFixtures] = useState(data);
@@ -48,7 +49,7 @@ function App() {
             <Route path="/fixtures" element={<Table data={fixtures} />} />
             <Route path="/fixture/:matchID" element={<Fixture />} />
             <Route path="/fixture/:matchID" element={<Fixture data={fixtures} />} />
-            <Route path="/jamoalar/:id" element={<JamoalDetails />} />
+            <Route path="/Detail/:id" element={<Detail />} />
           </Routes>
         </Router>
       )}

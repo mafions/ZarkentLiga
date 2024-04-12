@@ -1,19 +1,31 @@
-import React from "react";
-import { useParams } from "react-router-dom";
+import React from 'react';
 
-const JamoalDetails = ({ jamoalar }) => {
-    const { id } = useParams(); // URL dan ID ni olish
+const JamoalDetails = ({ jamoalar, id }) => {
+  // Berilgan id ga mos keluvchi jamoal ma'lumotini topish
+  const jamoal = jamoalar.find(item => item.id === id);
 
-    const selectedJamoal = jamoalar.find(jamoal => jamoal.id === Number(id)) || {};
+  if (!jamoal) {
+    return <div>Jamoal topilmadi</div>;
+  }
 
-    return (
-        <div className="SelectedPlayerInfo">
-            <p>Oyinchi: {selectedJamoal.name}</p>
-            <p>O'ynagan oyinlar: {selectedJamoal.oyin}</p>
-            <p>Urildigan gollar: {selectedJamoal.achko}</p>
-            <p>Otkazib yuborilgan gollar: {selectedJamoal.gollar}</p>
-        </div>
-    );
+  return (
+    <div>
+      <h2>{jamoal.name}</h2>
+      <p>O'YN: {jamoal.oyin}</p>
+      <p>ACHKO: {jamoal.achko}</p>
+      <p>GOL: {jamoal.gollar}</p>
+      <h3>Players</h3>
+      <ul>
+        {jamoal.Players.map(player => (
+          <li key={player.name}>
+            <p>Name: {player.name}</p>
+            <p>Age: {player.Age}</p>
+            <p>Position: {player.Position}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
 };
 
 export default JamoalDetails;
