@@ -9,7 +9,7 @@ export const AllJamoalar = [
         gollar: "22",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/2005_positsion_graphic.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-12-21.jpg",
         Players: [
             {
                 name: "Asatbek",
@@ -84,7 +84,7 @@ export const AllJamoalar = [
         gollar: "24",
         HammaSariq: "1",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/POSITSION.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-08-07.jpg",
         Players: [
             {
                 name: "Ozodbek",
@@ -150,7 +150,7 @@ export const AllJamoalar = [
         gollar: "22",
         HammaSariq: "1",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/2006(2)_positsion_graphic.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-10-21.jpg",
         Players: [
             {
                 name: "Ozodbek",
@@ -201,7 +201,7 @@ export const AllJamoalar = [
         gollar: "18",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/2007_positsion_graphic.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-14-05.jpg",
         Players: [
             {
                 name: "Mirzadavlat",
@@ -257,7 +257,7 @@ export const AllJamoalar = [
         gollar: "15",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/2000_positsion_graphic.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-09-34.jpg",
         Players: [
             {
                 name: "Muhammadqodir",
@@ -297,7 +297,7 @@ export const AllJamoalar = [
         gollar: "9",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/2008_positsion_graphic.jpg",
+        Tuzulishi: "../src/assets/photo_2024-04-12_17-13-13.jpg",
         Players: [
             {
                 name: "Lazizbek",
