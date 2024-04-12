@@ -84,7 +84,7 @@ export const AllJamoalar = [
         gollar: "24",
         HammaSariq: "1",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-08-07.jpg",
+        Tuzulishi: "../src/assets/POSITSION.jpg",
         Players: [
             {
                 name: "Ozodbek",
@@ -295,8 +295,6 @@ export const AllJamoalar = [
         oyin: "5",
         achko: "4",
         gollar: "9",
-        HammaSariq: "0",
-        HammaQizil: "0",
         Tuzulishi: "../src/assets/photo_2024-04-12_17-13-13.jpg",
         Players: [
             {
