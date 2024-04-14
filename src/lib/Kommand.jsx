@@ -329,7 +329,7 @@ export const AllJamoalar = [
         id: 7,
         name: "2007(2)",
         Orin: 7,
-        img: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
+        img: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
         oyin: "0",
         achko: "0",
         gollar: "0",

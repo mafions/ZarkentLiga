@@ -1717,7 +1717,7 @@ export const data = {
         away: {
           id: 170022,
           name: "2007 (2)",
-          logo: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
+          logo: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
           winner: null,
         },
       },
@@ -1818,22 +1818,22 @@ export const data = {
         away: {
           id: 69135,
           name: "2007 (2)",
-          logo: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
+          logo: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
           winner: null,
         },
       },
       goals: {
-        home: 4,
-        away: 6,
+        home: 0,
+        away: 0,
       },
       score: {
         halftime: {
-          home: 4,
-          away: 4,
+          home: 0,
+          away: 0,
         },
         fulltime: {
-          home: 4,
-          away: 6,
+          home: 0,
+          away: 0,
         },
         extratime: {
           home: null,
