@@ -1,4 +1,6 @@
 .table-item:hover {
-    filter: brightness(85%);
-  }
-  
+  filter: brightness(85%);
+}
+.KUTILAYOTGAN_OYIN {
+  background-color: cyan;
+}

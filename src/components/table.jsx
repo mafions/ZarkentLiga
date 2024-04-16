@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import "../CSS/Table.css"; 
+import "../CSS/Table.css";
 
 const Table = ({ data }) => {
   const [fixtures, setFixtures] = useState([]);
@@ -17,6 +17,7 @@ const Table = ({ data }) => {
           <div className="bg-white py-2 transform transition duration-300 hover:scale-105">
             <div align="center">
               <img src={fixture.league.logo} width={25} alt="logo" />
+              <h1 className="KUTILAYOTGAN_OYIN">{fixture.league.Bolishi}</h1>
               {fixture.league.name}
             </div>
 
