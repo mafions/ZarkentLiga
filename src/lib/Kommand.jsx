@@ -1,3 +1,20 @@
+import rasm_1 from "../assets/photo_2024-04-12_17-12-21.jpg"
+import rasm_2 from "../assets/photo_2024-04-12_17-10-21.jpg"
+import rasm_3 from "../assets/POSITSION.jpg"
+import rasm_4 from "../assets/photo_2024-04-12_17-14-05.jpg"
+import rasm_5 from "../assets/photo_2024-04-12_17-09-34.jpg"
+import rasm_6 from "../assets/photo_2024-04-12_17-13-13.jpg"
+import rasm_7 from "../assets/photo_2024-04-17_19-56-43.jpg"
+
+
+
+
+
+
+
+
+
+
 export const AllJamoalar = [
     {
         id: 4,
@@ -9,7 +26,7 @@ export const AllJamoalar = [
         gollar: "38",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-12-21.jpg",
+        Tuzulishi: rasm_1,
         Players: [
             {
                 name: "Asatbek",
@@ -84,7 +101,7 @@ export const AllJamoalar = [
         gollar: "32",
         HammaSariq: "1",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-10-21.jpg",
+        Tuzulishi: rasm_2,
         Players: [
             {
                 name: "Ozodbek",
@@ -135,7 +152,7 @@ export const AllJamoalar = [
         gollar: "35",
         HammaSariq: "1",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/POSITSION.jpg",
+        Tuzulishi: rasm_3,
         Players: [
             {
                 name: "Ozodbek",
@@ -201,7 +218,7 @@ export const AllJamoalar = [
         gollar: "26",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-14-05.jpg",
+        Tuzulishi: rasm_4,
         Players: [
             {
                 name: "Mirzadavlat",
@@ -257,7 +274,7 @@ export const AllJamoalar = [
         gollar: "23",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-09-34.jpg",
+        Tuzulishi: rasm_5,
         Players: [
             {
                 name: "Muhammadqodir",
@@ -295,7 +312,7 @@ export const AllJamoalar = [
         oyin: "5",
         achko: "4",
         gollar: "9",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-13-13.jpg",
+        Tuzulishi: rasm_6,
         Players: [
             {
                 name: "Lazizbek",
@@ -335,7 +352,7 @@ export const AllJamoalar = [
         gollar: "7",
         HammaSariq: "0",
         HammaQizil: "0",
-        Tuzulishi: "../src/assets/photo_2024-04-12_17-14-05.jpg",
+        Tuzulishi: rasm_7,
         Players: [
             {
                 name: "Davron",
