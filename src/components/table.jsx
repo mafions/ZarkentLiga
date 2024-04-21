@@ -17,7 +17,7 @@ const Table = ({ data }) => {
           <div className="bg-white py-2 transform transition duration-300 hover:scale-105">
             <div align="center">
               <img src={fixture.league.logo} width={25} alt="logo" />
-              <h1 className="KUTILAYOTGAN_OYIN">{fixture.league.Bolishi}</h1>
+              {/* <h1 className="KUTILAYOTGAN_OYIN">{fixture.league.Bolishi}</h1> */}
               {fixture.league.name}
             </div>
 

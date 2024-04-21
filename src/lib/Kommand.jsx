@@ -9,21 +9,15 @@ import rasm_7 from "../assets/photo_2024-04-17_19-56-43.jpg"
 
 
 
-
-
-
-
-
-
 export const AllJamoalar = [
     {
         id: 4,
         name: "2005(1)",
         Orin: 1,
         img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
-        oyin: "7",
-        achko: "16",
-        gollar: "38",
+        oyin: "8",
+        achko: "19",
+        gollar: "41",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_1,
@@ -96,9 +90,9 @@ export const AllJamoalar = [
         name: "2006(2)",
         Orin: 2,
         img: "https://avatars.mds.yandex.net/i?id=9714adecfb06c39800522a12b51b6dd827446861-12542244-images-thumbs&n=13",
-        oyin: "7",
-        achko: "13",
-        gollar: "32",
+        oyin: "8",
+        achko: "16",
+        gollar: "40",
         HammaSariq: "1",
         HammaQizil: "0",
         Tuzulishi: rasm_2,
@@ -147,9 +141,9 @@ export const AllJamoalar = [
         name: "2006(1)",
         Orin: 3,
         img: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
-        oyin: "7",
-        achko: "10",
-        gollar: "35",
+        oyin: "8",
+        achko: "13",
+        gollar: "43",
         HammaSariq: "1",
         HammaQizil: "0",
         Tuzulishi: rasm_3,
@@ -213,9 +207,9 @@ export const AllJamoalar = [
         name: "2007(1)",
         Orin: 4,
         img: "https://avatars.mds.yandex.net/i?id=b78c3c2149b01d357fe7f836840996a1a523fd5d-4825158-images-thumbs&n=13",
-        oyin: "7",
+        oyin: "8",
         achko: "9",
-        gollar: "26",
+        gollar: "30",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_4,
@@ -269,9 +263,9 @@ export const AllJamoalar = [
         name: "2000(1)",
         Orin: 5,
         img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
-        oyin: "7",
+        oyin: "8",
         achko: "9",
-        gollar: "23",
+        gollar: "25",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_5,
@@ -347,9 +341,9 @@ export const AllJamoalar = [
         name: "2007(2)",
         Orin: 7,
         img: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
-        oyin: "2",
+        oyin: "3",
         achko: "0",
-        gollar: "7",
+        gollar: "13",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,

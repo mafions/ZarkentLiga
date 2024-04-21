@@ -2135,17 +2135,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 3,
+        away: 2,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 1,
+          away: 1,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 2,
         },
         extratime: {
           home: null,
@@ -2159,7 +2159,7 @@ export const data = {
       events: [
         {
           time: {
-            elapsed: 0,
+            elapsed: 40,
             extra: null,
           },
           team: {
@@ -2169,11 +2169,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2005 Goals:   ",
+            name: " TEAM 2005 Goals: Rasulbek 4` , Oqilbek 23` 31`   ",
           },
           player2: {
             id: null,
-            name: " TEAM 2000 Goals: ",
+            name: " TEAM 2000 Goals: Bunyodbek 10` , Muxammadqodir 20`   ",
           },
           assist: {
             id: null,
@@ -2243,17 +2243,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 4,
+        away: 8,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 2,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 4,
+          away: 8,
         },
         extratime: {
           home: null,
@@ -2277,11 +2277,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2005 Goals:   ",
+            name: " TEAM 2007 ( 1 ) Goals: javoxir 11` 17` 25` 30`   ",
           },
           player2: {
             id: null,
-            name: " TEAM 2000 Goals: ",
+            name: " TEAM 2006 ( 1 ) Goals: Shoxrux 4` 7` 19` 20` , Ismoil 28` 33` 36` 40`   ",
           },
           assist: {
             id: null,
@@ -2347,17 +2347,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 8,
+        away: 6,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 3,
+          away: 3,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 8,
+          away: 6,
         },
         extratime: {
           home: null,
@@ -2371,7 +2371,7 @@ export const data = {
       events: [
         {
           time: {
-            elapsed: 0,
+            elapsed: 40,
             extra: null,
           },
           team: {
@@ -2381,11 +2381,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2005 Goals:   ",
+            name: " TEAM 2006 ( 2 ) Goals:    ",
           },
           player2: {
             id: null,
-            name: " TEAM 2000 Goals: ",
+            name: " TEAM 2007  ( 2 ) Goals: Muzaffer 2` , 15`  19` 30` , Mirsaid 5`  9`  ",
           },
           assist: {
             id: null,
