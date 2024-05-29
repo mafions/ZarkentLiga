@@ -6,7 +6,7 @@ const Jamoalar = () => {
 
     return (
         <div>
-            <section className='JAM_SECTION '>
+            <section className='JAM_SECTION'>
                 <div className="jadval">
                     <p>#</p>
                     <h3>TEAM</h3>
@@ -26,13 +26,12 @@ const Jamoalar = () => {
                         <li>{jamoal.achko}</li>
                         <li>{jamoal.gollar}</li>                            
                     </div>
-                </Link>
+                </Link>    
                 ))}
             </section>
         </div>
     );
 };
-
 export default Jamoalar;
 
 

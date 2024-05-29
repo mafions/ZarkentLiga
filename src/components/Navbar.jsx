@@ -35,6 +35,9 @@ const NavBar = () => {
           <li className="mx-4 my-6 md:my-0">
             <Link to="/topurarlar" onClick={() => setIsOpen(false)}>To'purarlar</Link>
           </li>
+          <li className="mx-4 my-6 md:my-0">
+            <Link to="/topurarRecord" onClick={() => setIsOpen(false)}>To'purarlarRecordlari</Link>
+          </li>
         </ul>
       </nav>
     </div>

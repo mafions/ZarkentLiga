@@ -1,7 +1,7 @@
 import React from 'react';
 
 function PlayerItem({ player , selected , onClick }) {
-  const { name, age, position , goals } = player;
+  const { name, age, position , goals ,reputation } = player;
 
   return (
     <li className={`player-item ${selected ? 'selected' : ''}`} onClick={onClick}>
@@ -10,6 +10,7 @@ function PlayerItem({ player , selected , onClick }) {
       <p>Age: {age}</p>
       <p>Position: {position}</p>
       <h3> Goals:{goals}</h3>
+      <i>reputation {reputation}</i>
     </div>
   </li>
   );

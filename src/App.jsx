@@ -7,8 +7,9 @@ import Fixture from "./components/fixture";
 import Navbar from "./components/Navbar";
 import Orinlar from "./pages/Orinlar";
 // import JamoalDetails from "./pages/JamoalDetails";
-import Topurarlar from "./pages/Topurarlar";
 import Detail from "./pages/Detail";
+import TopurarRecord from "./pages/TopurarRecord";
+import Topurarlar from "./pages/Topurarlar";
 
 function App() {
   const [fixtures, setFixtures] = useState(data);
@@ -45,7 +46,8 @@ function App() {
           <Navbar />
           <Routes>
             <Route path="/" element={<Orinlar />} />
-            <Route path="/topurarlar" element={<Topurarlar />} />
+            <Route path="/topurarRecord" element={<TopurarRecord />} />
+            <Route path="/topurarlar" element={<Topurarlar/>} />
             <Route path="/fixtures" element={<Table data={fixtures} />} />
             <Route path="/fixture/:matchID" element={<Fixture />} />
             <Route path="/fixture/:matchID" element={<Fixture data={fixtures} />} />
