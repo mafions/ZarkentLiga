@@ -3,8 +3,12 @@ import PlayerList from '../components/PlayerList';
 
 function Topurarlar() {
     const [players, setPlayers] = useState([
+        { id: 7, name: 'Diyorbek', age: 20, position: 'Forward', goals: 4, reputation: "" },
+        { id: 8, name: 'Abrorbek', age: "?", position: 'Forward', goals: 4, reputation: "" },
+        { id: 9, name: 'Xayotbek', age: 20, position: 'Forward', goals: 4, reputation: "" },
         { id: 1, name: 'Shoxrux', age: 18, position: 'Forward', goals: 3, reputation: "" },
         { id: 2, name: 'Rasulbek', age: 19, position: 'Forward', goals: 3, reputation: "" },
+        { id: 7, name: 'Abu', age: 20, position: 'Defender', goals: 2, reputation: "" },
         { id: 3, name: 'Ismoil', age: 18, position: 'Midfielder', goals: 2, reputation: "" },
         { id: 4, name: 'Javoxir', age: 17, position: 'Forward', goals: 1, reputation: "" },
         { id: 5, name: 'Azamat', age: 18, position: 'Forward', goals: 1, reputation: "" },

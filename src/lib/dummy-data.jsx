@@ -3044,17 +3044,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 10,
+        away: 4,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 4,
+          away: 4,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 10,
+          away: 4,
         },
         extratime: {
           home: null,
@@ -3078,11 +3078,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2003 Goals: ",
+            name: " TEAM 2003 Goals: Abu 5` 15` , Xayotbek 1` 10` 36` 39` , Diyorbek 11` 21` 33` 40`  ",
           },
           player2: {
             id: null,
-            name: " TEAM 1995 Goals:  ",
+            name: " TEAM 1995 Goals: Abrorbek 8` 18` 29` 31` ",
           },
           assist: {
             id: null,
