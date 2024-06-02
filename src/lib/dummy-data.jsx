@@ -3096,10 +3096,6 @@ export const data = {
     },
 
 
-    // ?   Keyingi o'yinlar
-
-
-
     {
       fixture: {
         id: 1211,
@@ -3125,7 +3121,7 @@ export const data = {
       league: {
         id: 811612,
         name: " 2 - TUR",
-        Bolishi: "Payshanba Soat 20:00",
+        // Bolishi: "Payshanba Soat 20:00",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -3147,17 +3143,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 4,
+        away: 4,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 1,
+          away: 3,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 4,
+          away: 4,
         },
         extratime: {
           home: null,
@@ -3181,7 +3177,7 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2006 ( 1 ) Goals: ",
+            name: " TEAM 2006 ( 1 ) Goals: Shoxrux 9` 24` 39` Ismoil 40`  ",
           },
           player2: {
             id: null,
@@ -3224,7 +3220,7 @@ export const data = {
       league: {
         id: 8131311612,
         name: " 2 - TUR",
-        Bolishi: "Payshanba Soat 20:40",
+        // Bolishi: "Payshanba Soat 20:40",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -3246,17 +3242,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 8,
+        away: 6,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 4,
+          away: 4,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 8,
+          away: 6,
         },
         extratime: {
           home: null,
@@ -3280,7 +3276,7 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 1995 Goals: ",
+            name: " TEAM 1995 Goals: Abrorbek 3` , 6` , 11` 18` , Shoxrux 28` 30` , Oqiljon 37` ",
           },
           player2: {
             id: null,
@@ -3324,7 +3320,7 @@ export const data = {
       league: {
         id: 8116112,
         name: " 2 - TUR",
-        Bolishi: "Payshanba Soat 21:20",
+        // Bolishi: "Payshanba Soat 21:20",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -3346,17 +3342,17 @@ export const data = {
         },
       },
       goals: {
-        home: 0,
-        away: 0,
+        home: 1,
+        away: 8,
       },
       score: {
         halftime: {
-          home: 0,
-          away: 0,
+          home: 1,
+          away: 3,
         },
         fulltime: {
-          home: 0,
-          away: 0,
+          home: 1,
+          away: 8,
         },
         extratime: {
           home: null,
@@ -3380,11 +3376,11 @@ export const data = {
           },
           player: {
             id: null,
-            name: " TEAM 2007 Goals: ",
+            name: " TEAM 2007 Goals: Javoxir 20`  ",
           },
           player2: {
             id: null,
-            name: " TEAM 2003 Goals:  ",
+            name: " TEAM 2003 Goals: Abu 5` , 10` , 17` , Xayotbek 23` 29` , Diyorbek 34` 38` 40`  ",
           },
           assist: {
             id: null,
@@ -3425,7 +3421,7 @@ export const data = {
       league: {
         id: 811311612,
         name: " 2 - TUR",
-        Bolishi: "Payshanba Soat 22:00",
+        // Bolishi: "Payshanba Soat 22:00",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -3523,7 +3519,7 @@ export const data = {
       league: {
         id: 81121612,
         name: " 2 - TUR",
-        Bolishi: "Payshanba Soat 22:40",
+        // Bolishi: "Payshanba Soat 22:40",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -3595,6 +3591,505 @@ export const data = {
         },
       ],
     },
+
+    //? New Games
+
+    {
+      fixture: {
+        id: 121121291,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1167931212745600,
+        periods: {
+          first: 1679321374125600,
+          second: null,
+        },
+        venue: {
+          id: 4442134714,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "New Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 8112211612,
+        name: " 3 - TUR",
+        Bolishi: "Yakshanba Soat 20:00",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 1",
+      },
+      teams: {
+        home: {
+          id: 6242130413,
+          name: "2005",
+          logo: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
+          winner: false,
+        },
+        away: {
+          id: 8612321385,
+          name: "2003",
+          logo: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
+          winner: true,
+        },
+      },
+      goals: {
+        home: 0,
+        away: 0,
+      },
+      score: {
+        halftime: {
+          home: 0,
+          away: 0,
+        },
+        fulltime: {
+          home: 0,
+          away: 0,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 0,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2005  Goals: ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 2003 Goals:  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+    {
+      fixture: {
+        id: 121717191,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1167938112745600,
+        periods: {
+          first: 1679338174125600,
+          second: null,
+        },
+        venue: {
+          id: 4443481714,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "New Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 8118121612,
+        name: " 3 - TUR",
+        Bolishi: "Yakshanba Soat 20:40",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 2",
+      },
+      teams: {
+        home: {
+          id: 624390413,
+          name: "2007",
+          logo: "https://e7.pngegg.com/pngimages/304/16/png-clipart-atletico-madrid-fi-collection-football-player-manchester-city-f-c-crest-logo-flag-logo.png",
+          winner: false,
+        },
+        away: {
+          id: 861239385,
+          name: "1995",
+          logo: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
+          winner: true,
+        },
+      },
+      goals: {
+        home: 0,
+        away: 0,
+      },
+      score: {
+        halftime: {
+          home: 0,
+          away: 0,
+        },
+        fulltime: {
+          home: 0,
+          away: 0,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 0,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2007 Goals: ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 1995 Goals:  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+
+    {
+      fixture: {
+        id: 12110191,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1167019312745600,
+        periods: {
+          first: 1679330174125600,
+          second: null,
+        },
+        venue: {
+          id: 4443014714,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "New Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 8112160112,
+        name: " 3 - TUR",
+        Bolishi: "Payshanba Soat 21:20",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 2",
+      },
+      teams: {
+        home: {
+          id: 6243040113,
+          name: "1999",
+          logo: "https://abload.de/img/20550rbxky.jpg",
+          winner: false,
+        },
+        away: {
+          id: 8612331085,
+          name: "1994",
+          logo: "https://i1.wp.com/www.logolynx.com/images/logolynx/35/354731294375cebc25559ce1621c9ae4.jpeg",
+          winner: true,
+        },
+      },
+      goals: {
+        home: 0,
+        away: 0,
+      },
+      score: {
+        halftime: {
+          home: 0,
+          away: 0,
+        },
+        fulltime: {
+          home: 0,
+          away: 0,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 0,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 1999 Goals: ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 1994 Goals:  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+
+
+    {
+      fixture: {
+        id: 12081191,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1167930612745600,
+        periods: {
+          first: 167908125600,
+          second: null,
+        },
+        venue: {
+          id: 4440834714,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "New Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 811210860812,
+        name: " 3 - TUR",
+        Bolishi: "Yakshanba Soat 22:00",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 2",
+      },
+      teams: {
+        home: {
+          id: 62430413,
+          name: "2006 ( 2 )",
+          logo: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
+          winner: false,
+        },
+        away: {
+          id: 86123385,
+          name: "1992",
+          logo: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
+          winner: true,
+        },
+      },
+      goals: {
+        home: 0,
+        away: 0,
+      },
+      score: {
+        halftime: {
+          home: 0,
+          away: 0,
+        },
+        fulltime: {
+          home: 0,
+          away: 0,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 0,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006 ( 2 ) Goals: ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 1992 Goals:  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
+
+    {
+      fixture: {
+        id: 12104191,
+        referee: null,
+        timezone: "UTC",
+        date: "2024-03-25T12:00:00+00:00",
+        timestamp: 1167904312745600,
+        periods: {
+          first: 1679330474125600,
+          second: null,
+        },
+        venue: {
+          id: 4044434714,
+          name: "MARDON AKA MINISI",
+          city: "ZARKENT",
+        },
+        status: {
+          long: "New Time",
+          short: "1H",
+          elapsed: 40,
+        },
+      },
+      league: {
+        id: 8112104612,
+        name: " 3 - TUR",
+        Bolishi: "Payshanba Soat 22:40",
+        country: "UZBEKISTAN",
+        logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
+        flag: "https://media-3.api-sports.io/flags/dk.svg",
+        season: 2024,
+        round: "Regular Season - 2",
+      },
+      teams: {
+        home: {
+          id: 6204430413,
+          name: "2006 ( 1 )",
+          logo: "https://www.pngplay.com/wp-content/uploads/6/FC-Barcelona-Transparent-Background.png",
+          winner: false,
+        },
+        away: {
+          id: 8610423385,
+          name: "1996",
+          logo: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
+          winner: true,
+        },
+      },
+      goals: {
+        home: 0,
+        away: 0,
+      },
+      score: {
+        halftime: {
+          home: 0,
+          away: 0,
+        },
+        fulltime: {
+          home: 0,
+          away: 0,
+        },
+        extratime: {
+          home: null,
+          away: null,
+        },
+        penalty: {
+          home: null,
+          away: null,
+        },
+      },
+      events: [
+        {
+          time: {
+            elapsed: 0,
+            extra: null,
+          },
+          team: {
+            id: 8635,
+            name: "2006",
+            logo: "https://celes.club/pictures/uploads/posts/2023-06/1687263538_celes-club-p-letyashchii-myach-risunok-risunok-1.jpg",
+          },
+          player: {
+            id: null,
+            name: " TEAM 2006  Goals: ",
+          },
+          player2: {
+            id: null,
+            name: " TEAM 1996 Goals:  ",
+          },
+          assist: {
+            id: null,
+            name: null,
+          },
+          type: "Goal",
+          detail: "Normal Goal",
+          comments: null,
+        },
+      ],
+    },
+
 
 
     // {
