@@ -16,7 +16,7 @@ const NavBar = () => {
         <div className="flex justify-between items-center">
           <div className="Nav_image">
             <img src="https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png" />
-            <span className="text-2xl font-Poppins cursor-pointer">YOSHLAR LIGASI </span>
+            <span className="text-2xl font-Poppins cursor-pointer"> Madaniyat Ligasi </span>
           </div>
           <span
             className="text-3xl cursor-pointer mx-1 md:hidden block "
