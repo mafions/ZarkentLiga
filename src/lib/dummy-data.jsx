@@ -3817,7 +3817,7 @@ export const data = {
       league: {
         id: 8112160112,
         name: " 3 - TUR",
-        Bolishi: "Payshanba Soat 21:20",
+        Bolishi: "Yakshanba Soat 21:20",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
@@ -4017,7 +4017,7 @@ export const data = {
       league: {
         id: 8112104612,
         name: " 3 - TUR",
-        Bolishi: "Payshanba Soat 22:40",
+        Bolishi: "Yakshanba Soat 22:40",
         country: "UZBEKISTAN",
         logo: "https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png",
         flag: "https://media-3.api-sports.io/flags/dk.svg",
