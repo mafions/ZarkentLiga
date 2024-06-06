@@ -150,7 +150,7 @@ export const AllJamoalar = [
         img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
         oyin: "4",
         achko: "9",
-        gollar: "21",
+        gollar: "25",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
