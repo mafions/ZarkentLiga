@@ -81,7 +81,7 @@ export const AllJamoalar = [
     {
         id: 8,
         name: "2003(1)",
-        Orin: 3,
+        Orin: 2,
         img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
         oyin: "4",
         achko: "9",
@@ -142,7 +142,7 @@ export const AllJamoalar = [
     {
         id: 6,
         name: "1995(1)",
-        Orin: 2,
+        Orin: 3,
         img: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
         oyin: "4",
         achko: "9",
