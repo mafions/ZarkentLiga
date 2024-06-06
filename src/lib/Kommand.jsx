@@ -390,9 +390,9 @@ export const AllJamoalar = [
                 Position: "Midfielder",
             },
             {
-                name: "Mirixtiyor",
+                name: "Mubosher",
                 Age: "19",
-                Position: "Forward",
+                Position: "Midfielder",
             },
         ],
     },
