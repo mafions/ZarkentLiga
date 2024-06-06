@@ -79,6 +79,67 @@ export const AllJamoalar = [
 
     },
     {
+        id: 8,
+        name: "2003(1)",
+        Orin: 3,
+        img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
+        oyin: "4",
+        achko: "9",
+        gollar: "25",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_7,
+        Players: [
+            {
+                name: "Abu",
+                captain: "Sardor",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Asadbek",
+                Age: "2003",
+                Position: "GoalKeapper",
+            },
+            {
+                name: "muhammadiyor",
+                Age: "2003",
+                Position: "Midfielder",
+            },
+            {
+                name: "Muzaffar",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Hayotbek",
+                Age: "2003",
+                Position: "Midfielder",
+            },
+            {
+                name: "Diyorbek",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Mirzaolim",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Mardonbek",
+                Age: "2003",
+                Position: "Defender",
+            },
+            {
+                name: "Bunyodbek",
+                Age: "1996",
+                Position: "Forward",
+            },
+
+        ],
+    },
+    {
         id: 6,
         name: "1995(1)",
         Orin: 2,
@@ -143,67 +204,7 @@ export const AllJamoalar = [
             },
         ],
     },
-    {
-        id: 8,
-        name: "2003(1)",
-        Orin: 3,
-        img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
-        oyin: "4",
-        achko: "9",
-        gollar: "25",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_7,
-        Players: [
-            {
-                name: "Abu",
-                captain: "Sardor",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Asadbek",
-                Age: "2003",
-                Position: "GoalKeapper",
-            },
-            {
-                name: "muhammadiyor",
-                Age: "2003",
-                Position: "Midfielder",
-            },
-            {
-                name: "Muzaffar",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Hayotbek",
-                Age: "2003",
-                Position: "Midfielder",
-            },
-            {
-                name: "Diyorbek",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Mirzaolim",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Mardonbek",
-                Age: "2003",
-                Position: "Defender",
-            },
-            {
-                name: "Bunyodbek",
-                Age: "1996",
-                Position: "Forward",
-            },
 
-        ],
-    },
     {
         id: 10,
         name: "1994(1)",
