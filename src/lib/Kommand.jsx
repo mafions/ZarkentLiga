@@ -444,9 +444,9 @@ export const AllJamoalar = [
                 Position: "Forward",
             },
             {
-                name: "Birodar",
-                Age: "18",
-                Position: "Forward",
+                name: "Azizbek",
+                Age: "?",
+                Position: "Goalkeapper",
             },
             {
                 name: "Barkamol",
