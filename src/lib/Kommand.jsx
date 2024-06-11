@@ -17,9 +17,9 @@ export const AllJamoalar = [
         name: "1996(1)",
         Orin: 1,
         img: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
-        oyin: "5",
+        oyin: "6",
         achko: "15",
-        gollar: "24",
+        gollar: "25",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -82,11 +82,11 @@ export const AllJamoalar = [
     {
         id: 6,
         name: "1995(1)",
-        Orin: 3,
+        Orin: 2,
         img: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
-        oyin: "5",
-        achko: "12",
-        gollar: "31",
+        oyin: "6",
+        achko: "15",
+        gollar: "36",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_5,
@@ -148,11 +148,11 @@ export const AllJamoalar = [
     {
         id: 8,
         name: "2003(1)",
-        Orin: 2,
+        Orin: 3,
         img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
-        oyin: "5",
+        oyin: "6",
         achko: "12",
-        gollar: "30",
+        gollar: "34",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -206,16 +206,16 @@ export const AllJamoalar = [
 
         ],
     },
-   
+
 
     {
         id: 10,
         name: "1994(1)",
         Orin: 4,
         img: "https://i1.wp.com/www.logolynx.com/images/logolynx/35/354731294375cebc25559ce1621c9ae4.jpeg",
-        oyin: "5",
-        achko: "8",
-        gollar: "11",
+        oyin: "6",
+        achko: "11",
+        gollar: "16",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -278,11 +278,11 @@ export const AllJamoalar = [
     {
         id: 2,
         name: "1999(1)",
-        Orin: 6,
+        Orin: 5,
         img: "https://abload.de/img/20550rbxky.jpg",
-        oyin: "5",
-        achko: "7",
-        gollar: "27",
+        oyin: "6",
+        achko: "10",
+        gollar: "39",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_1,
@@ -334,11 +334,11 @@ export const AllJamoalar = [
     {
         id: 5,
         name: "2007(1)",
-        Orin: 8,
+        Orin: 6,
         img: "https://e7.pngegg.com/pngimages/304/16/png-clipart-atletico-madrid-fi-collection-football-player-manchester-city-f-c-crest-logo-flag-logo.png",
-        oyin: "5",
-        achko: "6",
-        gollar: "21",
+        oyin: "6",
+        achko: "7",
+        gollar: "24",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_4,
@@ -397,15 +397,81 @@ export const AllJamoalar = [
         ],
     },
 
+    {
+        id: 9,
+        name: "1992(1)",
+        Orin: 7,
+        img: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
+        oyin: "6",
+        achko: "7",
+        gollar: "18",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_7,
+        Players: [
+            {
+                name: "Azimjon",
+                Age: "1992",
+                Position: "GoalKeapper",
+            },
+            {
+                name: "Mahmudjon",
+                captain: "Sardor",
+                Age: "1992",
+                Position: "Midfielder",
+            },
+            {
+                name: "Bahodir",
+                Age: "1992",
+                Position: "Forward",
+            },
+            {
+                name: "Dostonbek",
+                Age: "1992",
+                Position: "Midfielder",
+            },
+            {
+                name: "Azamat",
+                Age: "1992",
+                Position: "Forward",
+            },
+            {
+                name: "Lazizbek",
+                Age: "1992",
+                Position: "Forward",
+            },
+            {
+                name: "Habibullo",
+                Age: "1992",
+                Position: "Defender",
+            },
+            {
+                name: "Shomurod",
+                Age: "1992",
+                Position: "Forward",
+            },
+            {
+                name: "Elyorbek",
+                Age: "1992",
+                Position: "Midfielder",
+            },
+            {
+                name: "Abdullo",
+                Age: "1992",
+                Position: "Forward",
+            },
+        ],
+
+    },
 
     {
         id: 1,
         name: "2005(1)",
-        Orin: 5,
+        Orin: 8,
         img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
-        oyin: "5",
+        oyin: "6",
         achko: "6",
-        gollar: "11",
+        gollar: "19",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_1,
@@ -470,87 +536,19 @@ export const AllJamoalar = [
     },
 
 
-   
 
 
-    {
-        id: 9,
-        name: "1992(1)",
-        Orin: 7,
-        img: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
-        oyin: "5",
-        achko: "4",
-        gollar: "15",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_7,
-        Players: [
-            {
-                name: "Azimjon",
-                Age: "1992",
-                Position: "GoalKeapper",
-            },
-            {
-                name: "Mahmudjon",
-                captain: "Sardor",
-                Age: "1992",
-                Position: "Midfielder",
-            },
-            {
-                name: "Bahodir",
-                Age: "1992",
-                Position: "Forward",
-            },
-            {
-                name: "Dostonbek",
-                Age: "1992",
-                Position: "Midfielder",
-            },
-            {
-                name: "Azamat",
-                Age: "1992",
-                Position: "Forward",
-            },
-            {
-                name: "Lazizbek",
-                Age: "1992",
-                Position: "Forward",
-            },
-            {
-                name: "Habibullo",
-                Age: "1992",
-                Position: "Defender",
-            },
-            {
-                name: "Shomurod",
-                Age: "1992",
-                Position: "Forward",
-            },
-            {
-                name: "Elyorbek",
-                Age: "1992",
-                Position: "Midfielder",
-            },
-            {
-                name: "Abdullo",
-                Age: "1992",
-                Position: "Forward",
-            },
-        ],
-
-    },
 
 
-   
 
     {
         id: 3,
         name: "2006(1)",
         Orin: 9,
         img: "https://www.pngplay.com/wp-content/uploads/6/FC-Barcelona-Transparent-Background.png",
-        oyin: "5",
-        achko: "2",
-        gollar: "18",
+        oyin: "6",
+        achko: "3",
+        gollar: "21",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_3,
@@ -588,9 +586,9 @@ export const AllJamoalar = [
                 Position: "Forward",
             },
             {
-                name: "Azizbek",
-                Age: "?",
-                Position: "Goalkeapper",
+                name: "Hasanboy",
+                Age: "18",
+                Position: "Midfielder",
             },
             {
                 name: "Barkamol",
@@ -619,9 +617,9 @@ export const AllJamoalar = [
         name: "2006(2)",
         Orin: 10,
         img: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
-        oyin: "5",
+        oyin: "6",
         achko: "0",
-        gollar: "5",
+        gollar: "9",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_2,
