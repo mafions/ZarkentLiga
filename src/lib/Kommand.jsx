@@ -151,7 +151,7 @@ export const AllJamoalar = [
         name: "1995(1)",
         Orin: 3,
         img: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
-        oyin: "8",
+        oyin: "9",
         achko: "18",
         gollar: "43",
         HammaSariq: "0",
