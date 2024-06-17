@@ -13,7 +13,7 @@ function Topurarlar() {
         { id: 14, name: 'Mirzadavlat', age: 17, position: 'Midfielder', goals: 9, reputation: "" },
         { id: 3, name: 'Ismoil (2006) ', age: 18, position: 'Midfielder',  goals: 9, reputation: "" },
         { id: 12, name: 'Oqiljon', age: "?", position: 'Forward', goals: 7, reputation: "" },
-        { id: 23, name: 'Nosirjonov O (2006)', age: "18", position: 'Forward', goals: 7, reputation: "" },
+        { id: 23, name: 'Nosirjonov O (2006)', age: "18", position: 'Forward', goals: 9, reputation: "" },
         { id: 7, name: 'Diyorbek', age: 20, position: 'Forward', goals: 7, reputation: "" },
         { id: 5, name: 'Azamat', age: 18, position: 'Forward', goals: 7, reputation: "" },
         { id: 7, name: 'Abu', age: 20, position: 'Defender', goals: 7, reputation: "" },
