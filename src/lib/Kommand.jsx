@@ -417,11 +417,6 @@ export const AllJamoalar = [
                 Position: "Defender",
             },
             {
-                name: "Akobir",
-                Age: "19",
-                Position: "Forward",
-            },
-            {
                 name: "Oqilbek",
                 Age: "19",
                 Position: "Forward",
@@ -616,9 +611,9 @@ export const AllJamoalar = [
         Tuzulishi: rasm_3,
         Players: [
             {
-                name: "Ozodbek",
-                Age: "18",
-                Position: "Defender",
+                name: "Sardor",
+                Age: "16",
+                Position: "Goalkeapper",
             },
             {
                 name: "Ismoil",
@@ -653,13 +648,13 @@ export const AllJamoalar = [
                 Position: "Midfielder",
             },
             {
-                name: "Barkamol",
-                Age: "18",
+                name: "Akobir",
+                Age: "16",
                 Position: "Forward",
             },
             {
                 name: "Komilbek",
-                Age: "?",
+                Age: "24",
                 Position: "Defender",
             },
             {
