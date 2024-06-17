@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import "../CSS/Navbar.css"
+import "../CSS/Navbar.css";
 
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,34 +9,42 @@ const NavBar = () => {
     setIsOpen(!isOpen);
   };
 
+  const playMusic = () => {
+    const audio = new Audio("Uzmir_feat._Mira_-_Sevganingni_top.mp3");
+    audio.play();
+  };
+
   return (
     <div className="Navbarjon">
       <div className="navbar_layer"></div>
-      <nav className="p-5  shadow md:flex md:items-center md:justify-between ">
+      <nav className="p-5 shadow md:flex md:items-center md:justify-between">
         <div className="flex justify-between items-center">
           <div className="Nav_image">
-            <img src="https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png" />
+            <img src="https://www.pinclipart.com/picdir/big/209-2095185_champions-league-logo-champions-league-football-logo-clipart.png" alt="logo" />
             <span className="text-2xl font-Poppins cursor-pointer"> Madaniyat Ligasi </span>
           </div>
           <span
-            className="text-3xl cursor-pointer mx-1 md:hidden block "
-            onClick={toggleMenu}
+            className="text-3xl cursor-pointer mx-1 md:hidden block"
+            onClick={() => {
+              toggleMenu();
+              if (!isOpen) playMusic(); 
+            }}
           >
             <ion-icon name={isOpen ? "close" : "menu"}></ion-icon>
           </span>
         </div>
-        <ul className={` md:flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8  ${isOpen ? "flex" : "hidden"}`}>
-          <li className="mx-4 my-6 md:my-0 ">
-            <Link to="/" onClick={() => setIsOpen(false)} >O'rinlar</Link>
+        <ul className={`md:flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8 ${isOpen ? "flex" : "hidden"}`}>
+          <li className="mx-4 my-6 md:my-0">
+            <Link to="/" onClick={() => { setIsOpen(false); }}>O'rinlar</Link>
           </li>
           <li className="mx-4 my-6 md:my-0">
-            <Link to="/fixtures" onClick={() => setIsOpen(false)} >O'yinlar</Link>
+            <Link to="/fixtures" onClick={() => { setIsOpen(false); }}>O'yinlar</Link>
           </li>
           <li className="mx-4 my-6 md:my-0">
-            <Link to="/topurarlar" onClick={() => setIsOpen(false)}>To'purarlar</Link>
+            <Link to="/topurarlar" onClick={() => { setIsOpen(false); }}>To'purarlar</Link>
           </li>
           <li className="mx-4 my-6 md:my-0">
-            <Link to="/topurarRecord" onClick={() => setIsOpen(false)}>To'purarlarRecordlari</Link>
+            <Link to="/topurarRecord" onClick={() => { setIsOpen(false); playMusic(); }}>To'purarlarRecordlari</Link>
           </li>
         </ul>
       </nav>
@@ -45,6 +53,8 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+
 
 
 

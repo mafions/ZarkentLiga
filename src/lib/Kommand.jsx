@@ -17,9 +17,9 @@ export const AllJamoalar = [
         name: "1996(1)",
         Orin: 1,
         img: "https://sport-results.ru/wp-content/uploads/2023/04/borussia_dortmund_logo.svg.png",
-        oyin: "6",
-        achko: "15",
-        gollar: "25",
+        oyin: "9",
+        achko: "22",
+        gollar: "40",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -80,142 +80,13 @@ export const AllJamoalar = [
     },
 
     {
-        id: 6,
-        name: "1995(1)",
-        Orin: 2,
-        img: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
-        oyin: "6",
-        achko: "15",
-        gollar: "36",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_5,
-        Players: [
-            {
-                name: "Abrorbek",
-                captain: "Sardor",
-                Age: "?",
-                Position: "Forward",
-            },
-            {
-                name: "Shoxrux",
-                Age: "?",
-                Position: "Defender",
-            },
-            {
-                name: "Ulug'bek",
-                Age: "?",
-                Position: "Forward",
-            },
-            {
-                name: "Madiyor",
-                Age: "?",
-                Position: "?",
-            },
-            {
-                name: "Nuriddin",
-                Age: "?",
-                Position: "Defender",
-            },
-            {
-                name: "Sardorbek",
-                Age: "?",
-                Position: "Midfielder",
-            },
-            {
-                name: "Bahodirbek",
-                Age: "?",
-                Position: "Midfielder",
-            },
-            {
-                name: "Oqiljon",
-                Age: "17",
-                Position: "Midfielder",
-            },
-            {
-                name: "Botir",
-                Age: "?",
-                Position: "Midfielder",
-            },
-            {
-                name: "Kamronbek",
-                Age: "17",
-                Position: "Midfielder",
-            },
-        ],
-    },
-
-    {
-        id: 8,
-        name: "2003(1)",
-        Orin: 3,
-        img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
-        oyin: "6",
-        achko: "12",
-        gollar: "34",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_7,
-        Players: [
-            {
-                name: "Abu",
-                captain: "Sardor",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Asadbek",
-                Age: "2003",
-                Position: "GoalKeapper",
-            },
-            {
-                name: "muhammadiyor",
-                Age: "2003",
-                Position: "Midfielder",
-            },
-            {
-                name: "Muzaffar",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Hayotbek",
-                Age: "2003",
-                Position: "Midfielder",
-            },
-            {
-                name: "Diyorbek",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Mirzaolim",
-                Age: "2003",
-                Position: "Forward",
-            },
-            {
-                name: "Mardonbek",
-                Age: "2003",
-                Position: "Defender",
-            },
-            {
-                name: "Bunyodbek",
-                Age: "1996",
-                Position: "Forward",
-            },
-
-        ],
-    },
-
-
-    {
         id: 10,
         name: "1994(1)",
-        Orin: 4,
+        Orin: 2,
         img: "https://i1.wp.com/www.logolynx.com/images/logolynx/35/354731294375cebc25559ce1621c9ae4.jpeg",
-        oyin: "6",
-        achko: "11",
-        gollar: "16",
+        oyin: "9",
+        achko: "20",
+        gollar: "35",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -276,13 +147,80 @@ export const AllJamoalar = [
     },
 
     {
+        id: 6,
+        name: "1995(1)",
+        Orin: 3,
+        img: "https://i.pinimg.com/originals/14/6e/0f/146e0f3a0694840f9349e5edf0e7b1f1.png",
+        oyin: "8",
+        achko: "18",
+        gollar: "43",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_5,
+        Players: [
+            {
+                name: "Abrorbek",
+                captain: "Sardor",
+                Age: "?",
+                Position: "Forward",
+            },
+            {
+                name: "Shoxrux",
+                Age: "?",
+                Position: "Defender",
+            },
+            {
+                name: "Ulug'bek",
+                Age: "?",
+                Position: "Forward",
+            },
+            {
+                name: "Madiyor",
+                Age: "?",
+                Position: "?",
+            },
+            {
+                name: "Nuriddin",
+                Age: "?",
+                Position: "Defender",
+            },
+            {
+                name: "Sardorbek",
+                Age: "?",
+                Position: "Midfielder",
+            },
+            {
+                name: "Bahodirbek",
+                Age: "?",
+                Position: "Midfielder",
+            },
+            {
+                name: "Oqiljon",
+                Age: "17",
+                Position: "Midfielder",
+            },
+            {
+                name: "Botir",
+                Age: "?",
+                Position: "Midfielder",
+            },
+            {
+                name: "Kamronbek",
+                Age: "17",
+                Position: "Midfielder",
+            },
+        ],
+    },
+
+
+    {
         id: 2,
         name: "1999(1)",
-        Orin: 5,
+        Orin: 4,
         img: "https://abload.de/img/20550rbxky.jpg",
-        oyin: "6",
-        achko: "10",
-        gollar: "39",
+        oyin: "9",
+        achko: "17",
+        gollar: "58",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_1,
@@ -330,81 +268,14 @@ export const AllJamoalar = [
             }
         ],
     },
-
-    {
-        id: 5,
-        name: "2007(1)",
-        Orin: 6,
-        img: "https://e7.pngegg.com/pngimages/304/16/png-clipart-atletico-madrid-fi-collection-football-player-manchester-city-f-c-crest-logo-flag-logo.png",
-        oyin: "6",
-        achko: "7",
-        gollar: "24",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_4,
-        Players: [
-            {
-                name: "Mirzadavlat",
-                Age: "17",
-                Position: "GoalKeapper",
-            },
-            {
-                name: "Akmal",
-                Age: "17",
-                Position: "Defender",
-            },
-            {
-                name: "Mirziyod",
-                Age: "17",
-                Position: "Forward",
-            },
-            {
-                name: "Husanboy",
-                Age: "17",
-                Position: "Midfielder",
-            },
-            {
-                name: "Javoxir",
-                captain: "Sardor",
-                Age: "17",
-                Position: "Forward",
-            },
-            {
-                name: "Asadbek",
-                Age: "17",
-                Position: "Forward",
-            },
-            {
-                name: "Shoxjahon",
-                Age: "17",
-                Position: "Midfielder",
-            },
-            {
-                name: "Shaxriyor",
-                Age: "17",
-                Position: "Midfielder",
-            },
-            {
-                name: "Birodar",
-                Age: "17",
-                Position: "Midfielder",
-            },
-            {
-                name: "Abdurasul",
-                Age: "17",
-                Position: "Midfielder",
-            },
-        ],
-    },
-
     {
         id: 9,
         name: "1992(1)",
-        Orin: 7,
+        Orin: 5,
         img: "https://basket-03.wb.ru/vol346/part34646/34646194/images/big/1.jpg",
-        oyin: "6",
-        achko: "7",
-        gollar: "18",
+        oyin: "9",
+        achko: "13",
+        gollar: "29",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
@@ -465,13 +336,77 @@ export const AllJamoalar = [
     },
 
     {
+        id: 8,
+        name: "2003(1)",
+        Orin: 6,
+        img: "https://cdn.shopify.com/s/files/1/0518/3432/3098/products/Milanlogomockupfuljpeg.jpg?v=1659529798",
+        oyin: "9",
+        achko: "12",
+        gollar: "44",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_7,
+        Players: [
+            {
+                name: "Abu",
+                captain: "Sardor",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Asadbek",
+                Age: "2003",
+                Position: "GoalKeapper",
+            },
+            {
+                name: "muhammadiyor",
+                Age: "2003",
+                Position: "Midfielder",
+            },
+            {
+                name: "Muzaffar",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Hayotbek",
+                Age: "2003",
+                Position: "Midfielder",
+            },
+            {
+                name: "Diyorbek",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Mirzaolim",
+                Age: "2003",
+                Position: "Forward",
+            },
+            {
+                name: "Mardonbek",
+                Age: "2003",
+                Position: "Defender",
+            },
+            {
+                name: "Bunyodbek",
+                Age: "1996",
+                Position: "Forward",
+            },
+
+        ],
+    },
+
+
+    
+    {
         id: 1,
         name: "2005(1)",
-        Orin: 8,
+        Orin: 7,
         img: "https://ir.ozone.ru/s3/multimedia-9/6623358309.jpg",
-        oyin: "6",
-        achko: "6",
-        gollar: "19",
+        oyin: "9",
+        achko: "12",
+        gollar: "34",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_1,
@@ -534,6 +469,133 @@ export const AllJamoalar = [
             },
         ],
     },
+   
+
+    {
+        id: 5,
+        name: "2007(1)",
+        Orin: 8,
+        img: "https://e7.pngegg.com/pngimages/304/16/png-clipart-atletico-madrid-fi-collection-football-player-manchester-city-f-c-crest-logo-flag-logo.png",
+        oyin: "9",
+        achko: "7",
+        gollar: "35",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_4,
+        Players: [
+            {
+                name: "Mirzadavlat",
+                Age: "17",
+                Position: "GoalKeapper",
+            },
+            {
+                name: "Akmal",
+                Age: "17",
+                Position: "Defender",
+            },
+            {
+                name: "Mirziyod",
+                Age: "17",
+                Position: "Forward",
+            },
+            {
+                name: "Husanboy",
+                Age: "17",
+                Position: "Midfielder",
+            },
+            {
+                name: "Javoxir",
+                captain: "Sardor",
+                Age: "17",
+                Position: "Forward",
+            },
+            {
+                name: "Asadbek",
+                Age: "17",
+                Position: "Forward",
+            },
+            {
+                name: "Shoxjahon",
+                Age: "17",
+                Position: "Midfielder",
+            },
+            {
+                name: "Shaxriyor",
+                Age: "17",
+                Position: "Midfielder",
+            },
+            {
+                name: "Birodar",
+                Age: "17",
+                Position: "Midfielder",
+            },
+            {
+                name: "Abdurasul",
+                Age: "17",
+                Position: "Midfielder",
+            },
+        ],
+    },
+
+    
+
+   
+    {
+        id: 4,
+        name: "2006(2)",
+        Orin: 9,
+        img: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
+        oyin: "9",
+        achko: "6",
+        gollar: "25",
+        HammaSariq: "0",
+        HammaQizil: "0",
+        Tuzulishi: rasm_2,
+        Players: [
+            {
+                name: "Ozodbek",
+                Age: "18",
+                Position: "Defender",
+            },
+            {
+                name: "Samandar",
+                Age: "18",
+                Position: "Defender",
+            },
+            {
+                name: "Nurmuhammad",
+                Age: "18",
+                Position: "Forward",
+                Sariq: "https://e1.365dm.com/score-centre/icons/yellow_card.svg"
+            },
+            {
+                name: "Hasanboy",
+                Age: "18",
+                Position: "Goalkeapper",
+            },
+            {
+                name: "Azamat",
+                captain: "Sardor",
+                Age: "18",
+                Position: "Forward",
+            },
+            {
+                name: "Jasurbek",
+                Age: "?",
+                Position: "Forward",
+            },
+            {
+                name: "Diyorbek",
+                Age: "18",
+                Position: "Midfielder",
+            },
+            {
+                name: "Asatbek",
+                Age: "18",
+                Position: "Midfielder",
+            },
+        ],
+    },
 
 
 
@@ -544,11 +606,11 @@ export const AllJamoalar = [
     {
         id: 3,
         name: "2006(1)",
-        Orin: 9,
+        Orin: 10,
         img: "https://www.pngplay.com/wp-content/uploads/6/FC-Barcelona-Transparent-Background.png",
-        oyin: "6",
+        oyin: "9",
         achko: "3",
-        gollar: "21",
+        gollar: "30",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_3,
@@ -612,61 +674,5 @@ export const AllJamoalar = [
 
 
 
-    {
-        id: 4,
-        name: "2006(2)",
-        Orin: 10,
-        img: "http://s3-eu-west-1.amazonaws.com/product-img/75319_maxi_0.jpg",
-        oyin: "6",
-        achko: "0",
-        gollar: "9",
-        HammaSariq: "0",
-        HammaQizil: "0",
-        Tuzulishi: rasm_2,
-        Players: [
-            {
-                name: "Ozodbek",
-                Age: "18",
-                Position: "Defender",
-            },
-            {
-                name: "Samandar",
-                Age: "18",
-                Position: "Defender",
-            },
-            {
-                name: "Nurmuhammad",
-                Age: "18",
-                Position: "Forward",
-                Sariq: "https://e1.365dm.com/score-centre/icons/yellow_card.svg"
-            },
-            {
-                name: "Hasanboy",
-                Age: "18",
-                Position: "Goalkeapper",
-            },
-            {
-                name: "Azamat",
-                captain: "Sardor",
-                Age: "18",
-                Position: "Forward",
-            },
-            {
-                name: "Jasurbek",
-                Age: "?",
-                Position: "Forward",
-            },
-            {
-                name: "Diyorbek",
-                Age: "18",
-                Position: "Midfielder",
-            },
-            {
-                name: "Asatbek",
-                Age: "18",
-                Position: "Midfielder",
-            },
-        ],
-    },
-
+  
 ]
