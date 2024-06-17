@@ -86,7 +86,7 @@ export const AllJamoalar = [
         img: "https://i1.wp.com/www.logolynx.com/images/logolynx/35/354731294375cebc25559ce1621c9ae4.jpeg",
         oyin: "9",
         achko: "20",
-        gollar: "35",
+        gollar: "43",
         HammaSariq: "0",
         HammaQizil: "0",
         Tuzulishi: rasm_7,
